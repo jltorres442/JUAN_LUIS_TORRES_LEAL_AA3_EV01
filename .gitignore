@@ -1,0 +1,17 @@
+# Homecenter Envíos - Juan Luis Torres Leal y Angela María Constain Escobar
+
+# Salida de compilación de Maven
+target/
+
+# Dependencias de Node.js (se reinstalan con "npm install")
+frontend/node_modules/
+
+# Archivos de NetBeans / IntelliJ / Eclipse / VS Code
+nbproject/private/
+nb-configuration.xml
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/

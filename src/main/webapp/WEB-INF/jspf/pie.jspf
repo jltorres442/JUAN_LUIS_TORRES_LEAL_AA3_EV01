@@ -1,0 +1,11 @@
+<%--
+    FRAGMENTO: pie.jspf
+    Cierra las etiquetas abiertas por cabecera.jspf y carga el JavaScript.
+    Autores: Juan Luis Torres Leal y Angela María Constain Escobar
+--%>
+        </main>
+    </div>
+</div>
+<script src="${raiz}/js/aplicacion.js"></script>
+</body>
+</html>
